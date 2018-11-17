@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Nov 20, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Claire Fry)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I accessed and changed elements in the HTML page to create a photo gallery that rotates photos using the left and right arrow buttons.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://cmf16.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (You can create a new element node using the document.createElement() method.)
+2. (A for loop can be used to rotate the value of each img src.)
+3. (The createEventListeners() method specifies when a function will execute.)
 
